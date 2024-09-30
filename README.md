@@ -1,7 +1,7 @@
 nablarch-example-rest
 ===============
 
-test
+testtest
 
 Nablarchを使ったRESTfulウェブサービスのExampleです。
 
